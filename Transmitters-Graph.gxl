@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE gxl SYSTEM "http://www.gupro.de/GXL/gxl-1.0.dtd">
+<gxl>
+	<graph id="graph">
+		<node id="node1">
+			<attr name="x">
+				<float>-3.96</float>
+			</attr>
+			<attr name="y">
+				<float>-16.89</float>
+			</attr>
+			<attr name="radius">
+				<float>5.0</float>
+			</attr>
+			<attr name="color">
+				<int>0</int>
+			</attr>
+		</node>
+		<node id="node2">
+			<attr name="x">
+				<float>-11.64</float>
+			</attr>
+			<attr name="y">
+				<float>5.99</float>
+			</attr>
+			<attr name="radius">
+				<float>5.0</float>
+			</attr>
+			<attr name="color">
+				<int>0</int>
+			</attr>
+		</node>
+		<node id="node3">
+			<attr name="x">
+				<float>-6.83</float>
+			</attr>
+			<attr name="y">
+				<float>-3.93</float>
+			</attr>
+			<attr name="radius">
+				<float>5.0</float>
+			</attr>
+			<attr name="color">
+				<int>1</int>
+			</attr>
+		</node>
+		<node id="node4">
+			<attr name="x">
+				<float>-15.82</float>
+			</attr>
+			<attr name="y">
+				<float>-7.85</float>
+			</attr>
+			<attr name="radius">
+				<float>5.0</float>
+			</attr>
+			<attr name="color">
+				<int>0</int>
+			</attr>
+		</node>
+		<node id="node5">
+			<attr name="x">
+				<float>-4.46</float>
+			</attr>
+			<attr name="y">
+				<float>-2.32</float>
+			</attr>
+			<attr name="radius">
+				<float>5.0</float>
+			</attr>
+			<attr name="color">
+				<int>0</int>
+			</attr>
+		</node>
+		<node id="node6">
+			<attr name="x">
+				<float>13.14</float>
+			</attr>
+			<attr name="y">
+				<float>-13.66</float>
+			</attr>
+			<attr name="radius">
+				<float>5.0</float>
+			</attr>
+			<attr name="color">
+				<int>0</int>
+			</attr>
+		</node>
+		<node id="node7">
+			<attr name="x">
+				<float>-11.38</float>
+			</attr>
+			<attr name="y">
+				<float>17.01</float>
+			</attr>
+			<attr name="radius">
+				<float>5.0</float>
+			</attr>
+			<attr name="color">
+				<int>0</int>
+			</attr>
+		</node>
+		<node id="node8">
+			<attr name="x">
+				<float>12.89</float>
+			</attr>
+			<attr name="y">
+				<float>8.58</float>
+			</attr>
+			<attr name="radius">
+				<float>5.0</float>
+			</attr>
+			<attr name="color">
+				<int>0</int>
+			</attr>
+		</node>
+		<node id="node9">
+			<attr name="x">
+				<float>13.64</float>
+			</attr>
+			<attr name="y">
+				<float>0.19</float>
+			</attr>
+			<attr name="radius">
+				<float>5.0</float>
+			</attr>
+			<attr name="color">
+				<int>1</int>
+			</attr>
+		</node>
+		<node id="node10">
+			<attr name="x">
+				<float>-9.86</float>
+			</attr>
+			<attr name="y">
+				<float>8.79</float>
+			</attr>
+			<attr name="radius">
+				<float>5.0</float>
+			</attr>
+			<attr name="color">
+				<int>1</int>
+			</attr>
+		</node>
+		<edge from="node2" to="node10"/>
+		<edge from="node3" to="node4"/>
+		<edge from="node3" to="node5"/>
+		<edge from="node7" to="node10"/>
+		<edge from="node8" to="node9"/>
+	</graph>
+</gxl>

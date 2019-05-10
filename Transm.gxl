@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE gxl SYSTEM "http://www.gupro.de/GXL/gxl-1.0.dtd">
+<gxl>
+	<graph edgemode="undirected" id="graph">
+		<node id="node1">
+			<attr name="x">
+				<float>12.4</float>
+			</attr>
+			<attr name="y">
+				<float>-16.18</float>
+			</attr>
+			<attr name="radius">
+				<float>5.0</float>
+			</attr>
+			<attr name="color">
+				<int>1</int>
+			</attr>
+		</node>
+		<node id="node2">
+			<attr name="x">
+				<float>14.35</float>
+			</attr>
+			<attr name="y">
+				<float>-18.47</float>
+			</attr>
+			<attr name="radius">
+				<float>5.0</float>
+			</attr>
+			<attr name="color">
+				<int>0</int>
+			</attr>
+		</node>
+		<node id="node3">
+			<attr name="x">
+				<float>3.34</float>
+			</attr>
+			<attr name="y">
+				<float>15.79</float>
+			</attr>
+			<attr name="radius">
+				<float>5.0</float>
+			</attr>
+			<attr name="color">
+				<int>0</int>
+			</attr>
+		</node>
+		<node id="node4">
+			<attr name="x">
+				<float>-12.65</float>
+			</attr>
+			<attr name="y">
+				<float>-29.15</float>
+			</attr>
+			<attr name="radius">
+				<float>5.0</float>
+			</attr>
+			<attr name="color">
+				<int>0</int>
+			</attr>
+		</node>
+		<node id="node5">
+			<attr name="x">
+				<float>12.92</float>
+			</attr>
+			<attr name="y">
+				<float>-4.86</float>
+			</attr>
+			<attr name="radius">
+				<float>5.0</float>
+			</attr>
+			<attr name="color">
+				<int>0</int>
+			</attr>
+		</node>
+		<node id="node6">
+			<attr name="x">
+				<float>-18.56</float>
+			</attr>
+			<attr name="y">
+				<float>-17.21</float>
+			</attr>
+			<attr name="radius">
+				<float>5.0</float>
+			</attr>
+			<attr name="color">
+				<int>0</int>
+			</attr>
+		</node>
+		<node id="node7">
+			<attr name="x">
+				<float>-19.61</float>
+			</attr>
+			<attr name="y">
+				<float>-0.28</float>
+			</attr>
+			<attr name="radius">
+				<float>5.0</float>
+			</attr>
+			<attr name="color">
+				<int>0</int>
+			</attr>
+		</node>
+		<node id="node8">
+			<attr name="x">
+				<float>26.18</float>
+			</attr>
+			<attr name="y">
+				<float>-9.85</float>
+			</attr>
+			<attr name="radius">
+				<float>5.0</float>
+			</attr>
+			<attr name="color">
+				<int>0</int>
+			</attr>
+		</node>
+		<node id="node9">
+			<attr name="x">
+				<float>2.45</float>
+			</attr>
+			<attr name="y">
+				<float>6.0</float>
+			</attr>
+			<attr name="radius">
+				<float>5.0</float>
+			</attr>
+			<attr name="color">
+				<int>1</int>
+			</attr>
+		</node>
+		<node id="node10">
+			<attr name="x">
+				<float>25.24</float>
+			</attr>
+			<attr name="y">
+				<float>2.77</float>
+			</attr>
+			<attr name="radius">
+				<float>5.0</float>
+			</attr>
+			<attr name="color">
+				<int>2</int>
+			</attr>
+		</node>
+		<node id="node11">
+			<attr name="x">
+				<float>6.34</float>
+			</attr>
+			<attr name="y">
+				<float>-10.23</float>
+			</attr>
+			<attr name="radius">
+				<float>5.0</float>
+			</attr>
+			<attr name="color">
+				<int>2</int>
+			</attr>
+		</node>
+		<node id="node12">
+			<attr name="x">
+				<float>-10.24</float>
+			</attr>
+			<attr name="y">
+				<float>-28.37</float>
+			</attr>
+			<attr name="radius">
+				<float>5.0</float>
+			</attr>
+			<attr name="color">
+				<int>1</int>
+			</attr>
+		</node>
+		<node id="node13">
+			<attr name="x">
+				<float>29.66</float>
+			</attr>
+			<attr name="y">
+				<float>-6.84</float>
+			</attr>
+			<attr name="radius">
+				<float>5.0</float>
+			</attr>
+			<attr name="color">
+				<int>1</int>
+			</attr>
+		</node>
+		<node id="node14">
+			<attr name="x">
+				<float>29.92</float>
+			</attr>
+			<attr name="y">
+				<float>6.68</float>
+			</attr>
+			<attr name="radius">
+				<float>5.0</float>
+			</attr>
+			<attr name="color">
+				<int>1</int>
+			</attr>
+		</node>
+		<node id="node15">
+			<attr name="x">
+				<float>16.54</float>
+			</attr>
+			<attr name="y">
+				<float>-1.82</float>
+			</attr>
+			<attr name="radius">
+				<float>5.0</float>
+			</attr>
+			<attr name="color">
+				<int>1</int>
+			</attr>
+		</node>
+		<node id="node16">
+			<attr name="x">
+				<float>1.82</float>
+			</attr>
+			<attr name="y">
+				<float>-27.28</float>
+			</attr>
+			<attr name="radius">
+				<float>5.0</float>
+			</attr>
+			<attr name="color">
+				<int>0</int>
+			</attr>
+		</node>
+		<node id="node17">
+			<attr name="x">
+				<float>25.19</float>
+			</attr>
+			<attr name="y">
+				<float>8.86</float>
+			</attr>
+			<attr name="radius">
+				<float>5.0</float>
+			</attr>
+			<attr name="color">
+				<int>0</int>
+			</attr>
+		</node>
+		<node id="node18">
+			<attr name="x">
+				<float>-29.24</float>
+			</attr>
+			<attr name="y">
+				<float>-7.14</float>
+			</attr>
+			<attr name="radius">
+				<float>5.0</float>
+			</attr>
+			<attr name="color">
+				<int>0</int>
+			</attr>
+		</node>
+		<node id="node19">
+			<attr name="x">
+				<float>21.19</float>
+			</attr>
+			<attr name="y">
+				<float>-19.99</float>
+			</attr>
+			<attr name="radius">
+				<float>5.0</float>
+			</attr>
+			<attr name="color">
+				<int>2</int>
+			</attr>
+		</node>
+		<node id="node20">
+			<attr name="x">
+				<float>19.54</float>
+			</attr>
+			<attr name="y">
+				<float>-4.99</float>
+			</attr>
+			<attr name="radius">
+				<float>5.0</float>
+			</attr>
+			<attr name="color">
+				<int>3</int>
+			</attr>
+		</node>
+		<edge from="node1" to="node2"/>
+		<edge from="node1" to="node11"/>
+		<edge from="node1" to="node19"/>
+		<edge from="node2" to="node19"/>
+		<edge from="node3" to="node9"/>
+		<edge from="node4" to="node12"/>
+		<edge from="node5" to="node11"/>
+		<edge from="node5" to="node15"/>
+		<edge from="node5" to="node20"/>
+		<edge from="node8" to="node13"/>
+		<edge from="node8" to="node20"/>
+		<edge from="node10" to="node14"/>
+		<edge from="node10" to="node15"/>
+		<edge from="node10" to="node17"/>
+		<edge from="node10" to="node20"/>
+		<edge from="node14" to="node17"/>
+		<edge from="node15" to="node20"/>
+	</graph>
+</gxl>
